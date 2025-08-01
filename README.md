@@ -1,4 +1,4 @@
-<h1 align="center">Hola!, soy Juan👋</h1>
+<h1 align="center">Hola!, soy Juan 📊</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🚀 Apasionado por la tecnología y el análisis de datos, me enfoco en resolver problemas complejos y generar valor. Destaco por mi curiosidad, pensamiento crítico y capacidad de liderazgo.<br>🎓 Estudiante avanzado en la carrera de Ingeniería en Informática en la Universidad Argentina de la Empresa (UADE), Buenos Aires.<br>🌱 Actualmente, me encuentro en proceso de aprendizaje continuo en áreas clave como Ciencia de Datos, Machine Learning,Bases de datos, metodologías de análisis y visualización de datos, con un enfoque progresivo y constante.<br>📫 Podes contactarte a traves de mi E-mail: Juaanjosejerez@gmail.com o mi LinkedIn: www.linkedin.com/in/juan-josé-jerez/</p>
+<p align="left">🚀 Apasionado por la tecnología y el análisis de datos, me enfoco en resolver problemas complejos y generar valor. Destaco por mi curiosidad, pensamiento crítico y capacidad de liderazgo.<br>🎓 Estudiante avanzado en la carrera de Ingeniería en Informática en la Universidad Argentina de la Empresa (UADE), Buenos Aires.<br>🌱 Actualmente me encuentro en un proceso de aprendizaje continuo en áreas clave como Ciencia de Datos, Machine Learning, bases de datos, metodologías de análisis y visualización de datos, con un enfoque progresivo y constante.<br>📫 Podes contactarte a traves de mi E-mail: Juaanjosejerez@gmail.com o mi LinkedIn: www.linkedin.com/in/juan-josé-jerez/</p>
 
 ###
 
